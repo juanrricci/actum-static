@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://www.actum.org.ar",
     title: "Actum Full Project",
   },
   plugins: [
