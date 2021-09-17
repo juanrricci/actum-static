@@ -1,5 +1,6 @@
 import * as React from "react";
 import "../styles/styles.scss";
+import "../styles/fontawesome.scss";
 import ActumBrand from "../images/actum_brand61.png";
 import Img1 from "../images/arts/Innovation _Monochromatic.png";
 import Img2 from "../images/companies/company-teatro_san_martin.jpg";
