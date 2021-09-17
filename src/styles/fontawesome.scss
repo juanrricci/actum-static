@@ -1,5 +1,5 @@
-$fa-font-path: "../../node_modules/@fortawesome/fontawesome-free/webfonts" !default;
-@use '../../node_modules/@fortawesome/fontawesome-free/scss/brands.scss';
-@use '../../node_modules/@fortawesome/fontawesome-free/scss/regular.scss';
-@use '../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
-@use '../../node_modules/@fortawesome/fontawesome-free/scss/solid.scss';
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts" !default;
+@use '~@fortawesome/fontawesome-free/scss/brands.scss';
+@use '~@fortawesome/fontawesome-free/scss/regular.scss';
+@use '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@use '~@fortawesome/fontawesome-free/scss/solid.scss';
