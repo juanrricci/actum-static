@@ -29,10 +29,13 @@ const IndexPage = () => {
 							<a className="nav-link active" aria-current="page" href="#">Inicio</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="#">Blog</a>
+							<a className="nav-link" href="#">Artículos</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="#">Recursos</a>
+							<a className="nav-link" href="#">Conversaciones</a>
+						</li>
+						<li className="nav-item">
+							<a className="nav-link" href="#">Acceder</a>
 						</li>
 					</ul>
 				</div>
