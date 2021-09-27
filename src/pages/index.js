@@ -1,14 +1,14 @@
 import * as React from "react";
 import "../styles/styles.scss";
 import "../styles/fontawesome.scss";
-import ActumBrand from "../images/actum_brand61.png";
-import Img1 from "../images/arts/Innovation _Monochromatic.png";
-import Img2 from "../images/companies/company-teatro_san_martin.jpg";
-import Img3 from "../images/arts/Designer _Two Color.png";
-import Img4 from "../images/arts/Online presentation_Monochromatic.png";
-import Img5 from "../images/arts/Book Lover_Two Color.png";
-import Img6 from "../images/testimonials/pp.jpg";
-import Img7 from "../images/testimonials/pepo.jpg";
+import ActumBrand from "../assets/images/actum_brand61.png";
+import Img1 from "../assets/images/arts/Innovation _Monochromatic.png";
+import Img2 from "../assets/images/companies/company-teatro_san_martin.jpg";
+import Img3 from "../assets/images/arts/Designer _Two Color.png";
+import Img4 from "../assets/images/arts/Online presentation_Monochromatic.png";
+import Img5 from "../assets/images/arts/Book Lover_Two Color.png";
+import Img6 from "../assets/images/testimonials/pp.jpg";
+import Img7 from "../assets/images/testimonials/pepo.jpg";
 
 
 // markup
