@@ -19,7 +19,7 @@ export default function Navbar() {
                         <Link className="nav-link" to="/essays">Ensayos</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="/conversations">Conversaciones</Link>
+                        <Link className="nav-link" to="/conversations">Conversatorios</Link>
                     </li>
                     <li className="nav-item">
                         <Link className="nav-link" to="#">Acceder</Link>
