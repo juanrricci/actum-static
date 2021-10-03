@@ -2,6 +2,7 @@ import React from 'react';
 import Masonry from 'masonry-layout';
 
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 export default function ConversationsPage() {
     var msnry = new Masonry( '.grid');
@@ -92,5 +93,7 @@ export default function ConversationsPage() {
       </div>
     </div>
   </div>
+
+  <Footer />
     </>
 }
