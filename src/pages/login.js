@@ -1,10 +1,7 @@
 import React from 'react';
 
-import Navbar from "../components/Navbar";
-
 export default function LoginPage() {
     return <>
-    <Navbar />
     <form>
         <img class="mb-4" src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57" />
         <h1 class="h3 mb-3 fw-normal">Please sign in</h1>

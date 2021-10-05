@@ -1,11 +1,8 @@
 import React from 'react';
 
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
 
 export default function EssaysPage() {
     return <>
-    <Navbar />
     <div class="container">
   <header class="blog-header py-3">
     <div class="row flex-nowrap justify-content-between align-items-center">
@@ -250,6 +247,5 @@ export default function EssaysPage() {
 
 </main>
 
-    <Footer />
     </>
 }

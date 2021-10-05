@@ -1,12 +1,9 @@
 import React from 'react';
 
 // Masonry layout will be imported soon...
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
 
 export default function ConversationsPage() {
     return <>
-    <Navbar />
     <div class="row" data-masonry='{"percentPosition": true }'>
     <div class="col-sm-6 col-lg-4 mb-4">
       <div class="card">
@@ -90,7 +87,5 @@ export default function ConversationsPage() {
       </div>
     </div>
   </div>
-
-  <Footer />
     </>
 }
