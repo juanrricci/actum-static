@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-export default function Portfolio() {
+export default function FaqSection() {
     return <>
-    <section id="Portfolio" className="Portfolio">
+    <section id="faq" className="faq">
         <div className="container">
             <div className="row text-center">
-                <h1 className="display-3 fw-bold">Portfolio</h1>
+                <h1 className="display-3 fw-bold">Preguntas frecuentes</h1>
                 <div className="heading-line mb-5"></div>
             </div>
         </div>

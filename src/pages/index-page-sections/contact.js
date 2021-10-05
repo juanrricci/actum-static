@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-export default function Faq() {
+export default function ContactSection() {
     return <>
-    <section id="faq" className="faq">
+    <section id="Contacto" className="Contacto">
         <div className="container">
             <div className="row text-center">
-                <h1 className="display-3 fw-bold">Preguntas frecuentes</h1>
+                <h1 className="display-3 fw-bold">Contacto</h1>
                 <div className="heading-line mb-5"></div>
             </div>
         </div>

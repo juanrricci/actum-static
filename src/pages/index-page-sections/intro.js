@@ -2,7 +2,7 @@ import React from 'react';
 
 import Img1 from "../../assets/images/arts/Innovation _Monochromatic.png";
 
-export default function Intro() {
+export default function IntroSection() {
     return <>
     <section id="home" className="intro-section">
         <div className="container">

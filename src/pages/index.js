@@ -1,13 +1,13 @@
 import * as React from "react";
 
 // Sections
-import Intro from "./landing-page-sections/intro";
-import Companies from "./landing-page-sections/companies";
-import Services from "./landing-page-sections/services";
-import Testimonials from "./landing-page-sections/testimonials";
-import Faq from "./landing-page-sections/faq";
-import Portfolio from "./landing-page-sections/portfolio";
-import Contact from "./landing-page-sections/contact";
+import IntroSection from "./index-page-sections/intro";
+import CompaniesSection from "./index-page-sections/companies";
+import ServicesSection from "./index-page-sections/services";
+import TestimonialsSection from "./index-page-sections/testimonials";
+import FaqSection from "./index-page-sections/faq";
+import PortfolioSection from "./index-page-sections/portfolio";
+import ContactSection from "./index-page-sections/contact";
 
 // Styles
 import "../styles/styles.scss";
@@ -18,20 +18,13 @@ import "../styles/fontawesome.scss";
 const IndexPage = () => {
   return (
 	<>
-    <Intro />
-
-    <Companies />
-
-    <Services />
-
-    <Testimonials />
-
-    <Faq />
-
-    <Portfolio />
-
-    <Contact />
-
+    <IntroSection />
+    <CompaniesSection />
+    <ServicesSection />
+    <TestimonialsSection />
+    <FaqSection />
+    <PortfolioSection />
+    <ContactSection />
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="assets/vendors/js/glightbox.min.js"></script>
     <script type="text/javascript">

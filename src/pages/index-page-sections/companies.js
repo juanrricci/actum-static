@@ -2,7 +2,7 @@ import React from 'react';
 
 import Img2 from "../../assets/images/companies/company-teatro_san_martin.jpg";
 
-export default function Companies() {
+export default function CompaniesSection() {
     return <>
     <section id="companies" className="companies">
         <div className="container">

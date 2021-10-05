@@ -4,7 +4,7 @@ import Img3 from "../../assets/images/arts/Designer _Two Color.png";
 import Img4 from "../../assets/images/arts/Online presentation_Monochromatic.png";
 import Img5 from "../../assets/images/arts/Book Lover_Two Color.png";
 
-export default function Services() {
+export default function ServicesSection() {
     return <>
         <section id="services" className="our-services">
         <div className="container">
