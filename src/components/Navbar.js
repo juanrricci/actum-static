@@ -16,6 +16,9 @@ export default function Navbar() {
             <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav ms-auto">
                     <li className="nav-item">
+                        <Link className="nav-link" to="/blog">Blog</Link>
+                    </li>
+                    <li className="nav-item">
                         <Link className="nav-link" to="/essays">Ensayos</Link>
                     </li>
                     <li className="nav-item">
