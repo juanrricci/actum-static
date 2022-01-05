@@ -17,7 +17,7 @@ module.exports = {
          * Example : 'https://www.example-site.com/graphql'
          */
         /* url: `http://localhost:8888/graphql` || `http://167.99.207.41/graphql`, */
-        url: `https://multipase.com.ar/graphql`,
+        url: `https://back.actum.ar/graphql`,
       },
     },
     // highlight-end
